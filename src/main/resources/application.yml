@@ -1,0 +1,5 @@
+kiteconnect:
+  configs:
+    - apikey: xyz
+      userid: fiction
+      secretkey: abc
