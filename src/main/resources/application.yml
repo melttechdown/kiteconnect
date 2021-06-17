@@ -1,5 +1,10 @@
 kiteconnect:
   configs:
-    - apikey: xyz
+    - apikey: ugqafpg0bmkrqt5k
       userid: fiction
       secretkey: abc
+      appname: kiteconnectv1
+      expiry: NA
+      status: active
+      rootapiendpoint: https://api.kite.trade
+  loginurl: https://kite.zerodha.com/connect/login?v=3&api_key=
